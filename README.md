@@ -8,6 +8,6 @@ net-tools or ip neighbor
 
 Firmware files (LOCATED IN GOOGLE DRIVE URL LINK)
 https://drive.google.com/drive/folders/1kOmnifhTzHY84hCQ6V074kYnlA5V538P?usp=drive_link
-Place these tar.gz in a folder called "Firmware"
+Place these tar.gz in a folder called "Firmware" in your program's file directory. 
 
 Chrome Driver (LOCATED IN CAMERA_IMAGING_PROGRAM)
