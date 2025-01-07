@@ -11,3 +11,5 @@ https://drive.google.com/drive/folders/1kOmnifhTzHY84hCQ6V074kYnlA5V538P?usp=dri
 Place these tar.gz in a folder called "Firmware" in your program's file directory. 
 
 Chrome Driver (LOCATED IN CAMERA_IMAGING_PROGRAM)
+
+In the .py files chrome_opener.py and partner_code.py, For "driver_path= " replace what is there with wherever you place your chromedriver directory" 
