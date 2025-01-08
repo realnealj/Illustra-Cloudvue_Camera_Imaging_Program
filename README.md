@@ -18,4 +18,4 @@ In the .py files chrome_opener.py and partner_code.py, For "driver_path= " repla
 
 Demo Video: 
 
-https://youtube.com/shorts/DvmrGg1Bexo
+https://www.youtube.com/watch?v=DvmrGg1Bexo
