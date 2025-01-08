@@ -16,4 +16,6 @@ Chrome Driver (LOCATED IN CAMERA_IMAGING_PROGRAM repository)
 
 In the .py files chrome_opener.py and partner_code.py, For "driver_path= " replace what is there with wherever you place your chromedriver directory" 
 
-{Insert youtube links giving example of program working}
+Demo Video: 
+
+https://youtube.com/shorts/DvmrGg1Bexo
